@@ -1,0 +1,17 @@
+{
+  "name": "mrf",
+  "version": "1.0.0",
+  "description": "Make react file --name --props?",
+  "main": "mrf.js",
+  "scripts": {
+    "test": "node mrf Sick p"
+  },
+  "keywords": [
+    "make",
+    "react-native",
+    "file",
+    "fast"
+  ],
+  "author": "Basel Nsralla",
+  "license": "ISC"
+}
